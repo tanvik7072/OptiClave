@@ -18,7 +18,7 @@ Using other types of 3D printing or materials may cause damage during autoclavin
 The wiring for OptiClave is fairly simple:
 Connect pin 11 and the ground to the white LED in the cantilever
 
-<img src="Pins.png" alt="alt tag" width="300"/>
+<img src="Pins.jpg" alt="alt tag" width="300"/>
 [SparkFun Pi GPIO Guide](https://learn.sparkfun.com/tutorials/raspberry-gpio/gpio-pinout)
 
 ## Programming
