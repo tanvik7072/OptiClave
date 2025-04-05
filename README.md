@@ -16,10 +16,14 @@ Using other types of 3D printing or materials may cause damage during autoclavin
 
 ## Wiring
 The wiring for OptiClave is fairly simple:
-Connect pin 11 and the ground to the white LED in the cantilever
+Connect pin 11 and the ground to the white LED in the cantilever.
 
 <img src="Pins.jpg" alt="alt tag" width="300"/>
 [SparkFun Pi GPIO Guide](https://learn.sparkfun.com/tutorials/raspberry-gpio/gpio-pinout)
+
+The Pi camera should be attatched via ribbon to the Pi board and slotted through the hole in the botton of the microscope to be clipped into the optics tube.
+Ensure all wires are kept outside of the cameras field of view and are removed before autoclaving.
+Electronics should be steralised using less aggressive techniques, ideally isopropyl alcohol
 
 ## Programming
 OptiClave comes with prewritten Python to work
