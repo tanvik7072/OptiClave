@@ -2,7 +2,7 @@
 # **OptiClave**
 At OptiClave we aim to provide to tackle the problem to microscopy within tissue hoods by providing a simple to assemble, open-source and autoclavable microscope that can accurately image inside a tissue hood.
 
-![alt tag](OptiClave.png)
+![alt tag](OptiClave.png=250x250)
 
 ## Printing
 The STL files for OptiClave can be found in this repository
