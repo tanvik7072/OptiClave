@@ -14,6 +14,9 @@ import cv2
 import RPi.GPIO as GPIO
 from picamera2 import Picamera2
 
+#GPIO pin 17 on RPi
+LED_PIN = 17 
+
 def RunCamera():
     #Initialising
 
