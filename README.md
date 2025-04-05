@@ -17,6 +17,12 @@ Using other types of 3D printing or materials may cause damage during autoclavin
 
 ## Materials
 
+Threaded rod must be made from X and not 3D printed.  
+
+## Assembly
+
+An assembly video is provided within this repository
+
 ## Wiring
 The wiring for OptiClave is fairly simple:  
 
