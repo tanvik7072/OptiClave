@@ -36,7 +36,9 @@ Connect pin 11 and the ground to the white LED in the cantilever.
 
 
 <img src="Pins.jpg" alt="alt tag" width="300"/>
-[SparkFun Pi GPIO Guide](https://learn.sparkfun.com/tutorials/raspberry-gpio/gpio-pinout)
+[SparkFun Pi GPIO Guide](https://learn.sparkfun.com/tutorials/raspberry-gpio/gpio-pinout)  
+
+  
 
 The Pi camera should be attatched via ribbon to the Pi board and slotted through the hole in the botton of the microscope to be clipped into the optics tube.  
 
