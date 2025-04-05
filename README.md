@@ -21,7 +21,13 @@ Threaded rod must be made from X and not 3D printed.
 
 ## Assembly
 
-An assembly video is provided within this repository
+An assembly video is provided within this repository:  
+
+The threaded rod and stability rod are inserted into the electronics tray lid through the gear box. 
+
+The platform goes on top of the threaded rod and stability rod as a cantilever with the LED platform assembled above with the LED holder at the desired height.  
+
+The optics tube is twisted and locked into place using the protrusions at the side.  
 
 ## Wiring
 The wiring for OptiClave is fairly simple:  
