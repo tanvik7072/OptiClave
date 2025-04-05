@@ -90,7 +90,7 @@ python3 PiCamera.py
 
 ## Usage
 
-Once setup and the Python script is running, a window should appear showing the view of the camera. Place a sample above the cameraon the platform and use this to adjust the focus of the microscope until a clear imaage can be seen.  
+Once setup and the Python script is running, a window should appear showing the view of the camera. Place a sample above the cameraon the platform and use this to adjust the focus of the microscope until a clear image can be seen.  
 
 Within the console:  
 Press S to take a screenshot  
