@@ -11,15 +11,25 @@ camera module 3
 
 import time
 import cv2
+import RPi.GPIO as GPIO
 from picamera2 import Picamera2
 
 def RunCamera():
     #Initialising
+
+     # --- GPIO SETUP ---
+    GPIO.setmode(GPIO.BCM)  
+    GPIO.setup(LED_PIN, GPIO.OUT, initial=GPIO.LOW)
+
+    
+    # --- CAMERA SETUP ---
     picam2 = Picamera2()
-    
-    preview_config = picam2.create_preview_configuration({"size: "(640,480)})
-    
+    preview_config = picam2.create_preview_configuration({"size": (640, 480)})
+    picam2.configure(preview_config)
     picam2.start()
+
+    #Turn LED on
+    GPIO.output(LED_PIN, GPIO.HIGH)
     
     print("Press 's' to take a screenshot, 'q' to quit.\n")
     
@@ -46,9 +56,11 @@ def RunCamera():
             
             break
     
-    #Clean up        
+    #Clean up    
+    GPIO.output(LED_PIN, GPIO.LOW)
     cv2.destroyAllWindows()
     picam2.close()
+    GPIO.cleanup()
 
 
 if __name__ == "__main__":
