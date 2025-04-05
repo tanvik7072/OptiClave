@@ -5,9 +5,21 @@ At OptiClave we aim to provide to tackle the problem to microscopy within tissue
 <img src="OptiClave.png" alt="alt tag" width="300" />
 
 ## Printing
-The STL files for OptiClave can be found in this repository
+The STL files for OptiClave can be found in this repository.
+We recommend the use of SLA printing with a specific type of autoclavble resin
+Using other types of 3D printing or materials may cause damage during autoclaving
+
+<img src="Assembly.png" alt="alt tag" width="300"/>
+
+
+## Materials
 
 ## Wiring
+The wiring for OptiClave is fairly simple:
+Connect pin 11 and the ground to the white LED in the cantilever
+
+<img src="Pins.png" alt="alt tag" width="300"/>
+[SparkFun Pi GPIO Guide](https://learn.sparkfun.com/tutorials/raspberry-gpio/gpio-pinout)
 
 ## Programming
 OptiClave comes with prewritten Python to work
