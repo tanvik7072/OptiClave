@@ -19,6 +19,8 @@ Using other types of 3D printing or materials may cause damage during autoclavin
 
 To print the microscope, a biocompatible, autoclavable resin (such as LiqCreate Biocompatible Resin) is recommended. Liqcreate maintains high flexural strength and modulus even after autoclaving at 121°C and 134°C, making it the best candidate for sterilisable 3D-printed tissue culture components. Although slightly more expensive, the cost per print is not significantly higher, making it an optimal choice in terms of both performance and affordability.
 
+<img src="image.png" alt="alt tag" width="300"/>
+
 
 
 ## Assembly
