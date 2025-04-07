@@ -7,9 +7,9 @@ At OptiClave we aim to provide to tackle the problem to microscopy within tissue
 ## Printing
 The STL files for OptiClave can be found in this repository.  
 
-We recommend the use of SLA printing with a specific type of autoclavble resin  
+We recommend the use of SLA printing with a specific type of autoclavble resin, explained further below.  
 
-Using other types of 3D printing or materials may cause damage during autoclaving  
+Using other types of 3D printing or materials may cause damage during autoclaving.  
 
 
 <img src="Assembly.png" alt="alt tag" width="300"/>
@@ -17,7 +17,9 @@ Using other types of 3D printing or materials may cause damage during autoclavin
 
 ## Materials
 
-Threaded rod must be made from X and not 3D printed.  
+To print the microscope, a biocompatible, autoclavable resin (such as LiqCreate Biocompatible Resin) is recommended. Liqcreate maintains high flexural strength and modulus even after autoclaving at 121°C and 134°C, making it the best candidate for sterilisable 3D-printed tissue culture components. Although slightly more expensive, the cost per print is not significantly higher, making it an optimal choice in terms of both performance and affordability.
+
+
 
 ## Assembly
 
