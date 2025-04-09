@@ -31,11 +31,15 @@ To print the microscope, a biocompatible, autoclavable resin (such as LiqCreate 
 
 An assembly video is provided within this repository:  
 
-The threaded rod and stability rod are inserted into the electronics tray lid through the gear box. 
+The Raspberry Pi is placed into the electronics box, aligning the ports with the gaps as seen in the video and the lid is placed on top.  
 
-The platform goes on top of the threaded rod and stability rod as a cantilever with the LED platform assembled above with the LED holder at the desired height.  
+The threaded rod is to have its gear screwed onto the bottom and placed into the gear box alongside the stable rod.  
 
-The optics tube is twisted and locked into place using the protrusions at the side.  
+The specimen platform can be pushed onto the stop of the rods, acting as a cantilever while the LED holder is assembled on top.  
+
+Finally, the objective is screwed into the optics tube and attached using the twist and lock mechanism using the protusions at its base.  
+
+A video render of the assembly can be seen below.  
 
 [Assembly Video](Assembly.avi)
 
