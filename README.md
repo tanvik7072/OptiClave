@@ -12,7 +12,11 @@ We recommend the use of SLA printing with a specific type of autoclavable resin,
 Using other types of 3D printing or materials may cause damage during autoclaving.  
 
 
-<img src="Assembly.png" alt="alt tag" width="300"/>
+<p align="center">
+  <img src="FrontCombinedRender.PNG" alt="Image 1" width="45%" style="display: inline-block; margin-right: 5%;" />
+  <img src="BackCombinedRender.png" alt="Image 2" width="45%" style="display: inline-block;" />
+</p>
+  
 
 
 ## Materials
