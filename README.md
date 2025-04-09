@@ -6,6 +6,7 @@ At OptiClave we aim to provide to tackle the problem to microscopy within tissue
 
 ## Printing
 The STL files for OptiClave can be found in this repository.  
+[STLs](STLs)
 
 We recommend the use of SLA printing with a specific type of autoclavable resin, explained further below.  
 
