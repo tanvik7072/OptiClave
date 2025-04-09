@@ -37,7 +37,7 @@ The platform goes on top of the threaded rod and stability rod as a cantilever w
 
 The optics tube is twisted and locked into place using the protrusions at the side.  
 
-[Assembly Video](Assembly.mp4)
+[Assembly Video](Assembly.avi)
 
 ## Wiring
 The wiring for OptiClave is fairly simple:  
